@@ -39,9 +39,9 @@ Using your knowledge from above, you will rebase the caesarfeat branch on to the
 Here is what these branches' history currently looks like:
 
 ```
-    caesarfeat->(Add decode caesar)
+            caesarfeat->(Add decode caesar)
                 /
-caesar->(Create caesar)
+        caesar->(Create caesar)
           /
      (Create runtest)-(Print output)<- main
 ```
